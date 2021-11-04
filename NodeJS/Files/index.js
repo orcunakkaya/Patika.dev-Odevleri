@@ -15,4 +15,4 @@ fs.writeFile('employees.json', '{"name":"Employee 1 Name", "salary": 4000}', 'ut
 
 fs.unlink('employees.json', (err) => {
     if (err) console.log(err);
-})
+}) 
