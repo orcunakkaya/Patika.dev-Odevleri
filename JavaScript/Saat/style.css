@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    color: #e98208;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 5px;
+}
+
+body{
+    background-color: #343a40;
+}
+
+.content{
+    margin-top: 7rem;
+}
+
+#clock{
+    font-size: 42px;
+    margin-top: 2rem;
+}
